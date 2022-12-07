@@ -6,15 +6,16 @@
 
 - HTML 
 - CSS 
-- JavaScript 
+- JavaScript
+- Python 
 - SASS
 
 &emsp; 
 ## 🎈 Pretendo estudar:
 
+- Tailwindcss
 - Typescript 
 - React 
-- python
 
 &emsp; 
 ## 💻 Ferramentas de deselvolvimento:
